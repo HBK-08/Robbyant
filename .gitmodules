@@ -1,0 +1,6 @@
+[submodule "RoboTwin"]
+	path = RoboTwin
+	url = https://github.com/RoboTwin-Platform/RoboTwin.git
+[submodule "lingbot-vla-v2"]
+	path = lingbot-vla-v2
+	url = https://github.com/Robbyant/lingbot-vla-v2.git

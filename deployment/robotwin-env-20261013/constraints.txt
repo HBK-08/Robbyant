@@ -1,0 +1,17 @@
+# Explicit pins from the fixed RoboTwin requirements and install script.
+# NumPy 1.26.x is required by the LingBot RoboTwin setup guide.
+torch==2.4.1
+transforms3d==0.4.2
+sapien==3.0.0b1
+scipy==1.10.1
+mplib==0.2.1
+gymnasium==0.29.1
+trimesh==4.4.3
+open3d==0.18.0
+imageio==2.34.2
+huggingface_hub==0.25.0
+azure==4.0.0
+pyglet<2
+numpy==1.26.4
+warp-lang==1.12.0
+setuptools==69.5.1

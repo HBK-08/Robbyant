@@ -1,0 +1,41 @@
+# Local editor and agent state
+/.agents/
+/.aws/
+/.codex/
+.vscode/
+.idea/
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Keep deployment scripts and dependency records, not downloaded environments.
+/deployment/*/*
+!/deployment/*/*.sh
+!/deployment/*/*.py
+!/deployment/*/*.diff
+!/deployment/*/*.sha256
+!/deployment/*/constraints.txt
+!/deployment/*/official-final-pins.txt
+!/deployment/*/prefetch-requirements.txt
+!/deployment/*/conda-explicit.txt
+!/deployment/*/pip-freeze.txt
+/deployment/*/*-before-official-patch.py
+
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated datasets, model weights, and outputs at the workspace root
+/data/
+/datasets/
+/models/
+/weights/
+/checkpoints/
+/outputs/
+/runs/
+/wandb/

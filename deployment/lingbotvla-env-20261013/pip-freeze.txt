@@ -1,0 +1,203 @@
+absl-py==2.5.1
+accelerate==1.7.0
+aiohappyeyeballs==2.7.1
+aiohttp @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/aiohttp-3.12.15-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=fd736ed420f4db2b8148b52b46b88ed038d0354255f9a73196b7bbce3ea97545
+aiosignal==1.4.0
+alembic==1.20.0
+aliyun-python-sdk-core==2.16.1
+aliyun-python-sdk-kms==2.16.5
+annotated-doc==0.0.5
+annotated-types==0.8.0
+antlr4-python3-runtime==4.9.3
+anyio==4.15.1
+asttokens==3.0.2
+attrs==26.1.0
+av @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/av-15.0.0-cp312-cp312-manylinux_2_28_x86_64.whl#sha256=fc50a7d5f60109221ccf44f8fa4c56ce73f22948b7f19b1717fcc58f7fbc383e
+blinker==1.9.0
+blobfile @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/blobfile-3.2.0-py3-none-any.whl#sha256=e5e4095477da9f09e2077f41320c006001b2102a61f07d41ceaaecdf5d9741d8
+brotli==1.2.0
+cachetools==5.5.2
+certifi==2026.7.22
+cffi==2.1.1
+charset-normalizer==3.5.2
+click==8.1.7
+cloudpickle==3.1.2
+contourpy==1.3.3
+crcmod==1.7
+cryptography==50.0.2
+cycler==0.12.1
+databricks-sdk==0.57.0
+datasets @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/datasets-3.6.0-py3-none-any.whl#sha256=25000c4a2c0873a710df127d08a202a06eab7bf42441a6bc278b499c2f72cd1b
+decorator==5.3.1
+dill==0.3.8
+docker==7.2.0
+einops @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/einops-0.8.1-py3-none-any.whl#sha256=919387eb55330f5757c6bea9165c5ff5cfe63a642682ea788a6d472576d81737
+executing==2.3.0
+fastapi==0.143.0
+filelock==4.1.1
+flash_attn @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/flash_attn-2.8.3%2Bcu12torch2.8cxx11abiTRUE-cp312-cp312-linux_x86_64.whl#sha256=f25da18657a87fc83dc1bfb8b7751b82246e9db355510226b674fd437c34b5fb
+Flask==3.1.3
+fonttools==4.66.1
+frozenlist==1.8.0
+fsspec @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/fsspec-2024.6.1-py3-none-any.whl#sha256=3cb443f8bcd2efb31295a5b9fdb02aee81d8452c80d28f97a6d0959e6cee101e
+gitdb==4.0.12
+GitPython==3.2.0
+glcontext==3.1.0
+google-auth==2.62.0
+gradio==6.17.3
+gradio_client==2.5.0
+graphene==3.4.3
+graphql-core==3.2.13
+graphql-relay==3.2.0
+groovy==0.1.2
+grpcio==1.84.0
+gunicorn==23.0.0
+h11==0.16.0
+h5py @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/h5py-3.14.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=0cbd41f4e3761f150aa5b662df991868ca533872c95467216f2bec5fcad84882
+hf-gradio==0.4.1
+hf-xet==1.7.0
+httpcore==1.0.9
+httpx==0.28.1
+huggingface-hub==0.34.0
+idna==3.20
+imageio @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/imageio-2.34.2-py3-none-any.whl#sha256=a0bb27ec9d5bab36a9f4835e51b21d2cb099e1f78451441f94687ff3404b79f8
+importlib_metadata==8.9.0
+ipdb @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/ipdb-0.13.13-py3-none-any.whl#sha256=45529994741c4ab6d2388bfa5d7b725c2cf7fe9deffabdb8a6113aa5ed449ed4
+ipython==9.17.1
+ipython_pygments_lexers==1.1.1
+itsdangerous==2.2.0
+jedi==0.20.1
+Jinja2==3.1.6
+jmespath==1.1.0
+joblib==1.6.0
+jsonlines @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/jsonlines-4.0.0-py3-none-any.whl#sha256=185b334ff2ca5a91362993f42e83588a360cf95ce4b71a73548502bda52a7c55
+kiwisolver==1.5.1
+lerobot @ https://github.com/huggingface/lerobot/archive/refs/tags/v0.4.2.tar.gz#sha256=2ed4981213f0931e741df1dfc3986a36af2fe44db8540d723108c6fd2defc14b
+-e git+https://github.com/Robbyant/lingbot-vla-v2.git@be969b8fd117fb70550c5d4bf4bc328211b5b1b6#egg=lingbotvla
+lxml==6.1.3
+Mako==1.4.3
+Markdown==3.11
+markdown-it-py==4.2.0
+MarkupSafe==3.0.4
+matplotlib @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/matplotlib-3.10.3-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=ed70453fd99733293ace1aec568255bc51c6361cb0da94fa5ebf0649fdb2150a
+matplotlib-inline==0.2.2
+-e git+https://github.com/Robbyant/lingbot-vla-v2.git@be969b8fd117fb70550c5d4bf4bc328211b5b1b6#egg=mdm&subdirectory=../../../../../home/lmy/Robbyant/lingbot-vla-v2/lingbotvla/models/vla/vision_models/lingbot-depth
+mdurl==0.1.2
+mlflow==2.22.5
+mlflow-skinny==2.22.5
+moderngl==5.12.0
+-e git+https://github.com/Robbyant/lingbot-vla-v2.git@be969b8fd117fb70550c5d4bf4bc328211b5b1b6#egg=moge&subdirectory=../../../../../home/lmy/Robbyant/lingbot-vla-v2/lingbotvla/models/vla/vision_models/MoGe
+mpmath==1.3.0
+msgpack @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/msgpack-1.1.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=a494554874691720ba5891c9b0b39474ba43ffb1aaf32a5dac874effb1619e1a
+multidict==6.9.1
+multiprocess==0.70.16
+narwhals==2.27.1
+networkx==3.7
+ninja @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/ninja-1.11.1.4-py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=096487995473320de7f65d622c3f1d16c3ad174797602218ca8c967f51ec38a0
+numpy==1.26.4
+numpydantic==1.9.0
+nvidia-cublas-cu12 @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/nvidia_cublas_cu12-12.8.4.1-py3-none-manylinux_2_27_x86_64.whl#sha256=8ac4e771d5a348c551b2a426eda6193c19aa630236b418086020df5ba9667142
+nvidia-cuda-cupti-cu12 @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/nvidia_cuda_cupti_cu12-12.8.90-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl#sha256=ea0cb07ebda26bb9b29ba82cda34849e73c166c18162d3913575b0c9db9a6182
+nvidia-cuda-nvrtc-cu12 @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/nvidia_cuda_nvrtc_cu12-12.8.93-py3-none-manylinux2010_x86_64.manylinux_2_12_x86_64.whl#sha256=a7756528852ef889772a84c6cd89d41dfa74667e24cca16bb31f8f061e3e9994
+nvidia-cuda-runtime-cu12 @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/nvidia_cuda_runtime_cu12-12.8.90-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl#sha256=adade8dcbd0edf427b7204d480d6066d33902cab2a4707dcfc48a2d0fd44ab90
+nvidia-cudnn-cu12 @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/nvidia_cudnn_cu12-9.10.2.21-py3-none-manylinux_2_27_x86_64.whl#sha256=949452be657fa16687d0930933f032835951ef0892b37d2d53824d1a84dc97a8
+nvidia-cufft-cu12 @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/nvidia_cufft_cu12-11.3.3.83-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl#sha256=4d2dd21ec0b88cf61b62e6b43564355e5222e4a3fb394cac0db101f2dd0d4f74
+nvidia-cufile-cu12 @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/nvidia_cufile_cu12-1.13.1.3-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl#sha256=1d069003be650e131b21c932ec3d8969c1715379251f8d23a1860554b1cb24fc
+nvidia-curand-cu12 @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/nvidia_curand_cu12-10.3.9.90-py3-none-manylinux_2_27_x86_64.whl#sha256=b32331d4f4df5d6eefa0554c565b626c7216f87a06a4f56fab27c3b68a830ec9
+nvidia-cusolver-cu12 @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/nvidia_cusolver_cu12-11.7.3.90-py3-none-manylinux_2_27_x86_64.whl#sha256=4376c11ad263152bd50ea295c05370360776f8c3427b30991df774f9fb26c450
+nvidia-cusparse-cu12 @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/nvidia_cusparse_cu12-12.5.8.93-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl#sha256=1ec05d76bbbd8b61b06a80e1eaf8cf4959c3d4ce8e711b65ebd0443bb0ebb13b
+nvidia-cusparselt-cu12 @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/nvidia_cusparselt_cu12-0.7.1-py3-none-manylinux2014_x86_64.whl#sha256=f1bb701d6b930d5a7cea44c19ceb973311500847f81b634d802b7b539dc55623
+nvidia-nccl-cu12 @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/nvidia_nccl_cu12-2.27.3-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl#sha256=adf27ccf4238253e0b826bce3ff5fa532d65fc42322c8bfdfaf28024c0fbe039
+nvidia-nvjitlink-cu12 @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/nvidia_nvjitlink_cu12-12.8.93-py3-none-manylinux2010_x86_64.manylinux_2_12_x86_64.whl#sha256=81ff63371a7ebd6e6451970684f916be2eab07321b73c9d244dc2b4da7f73b88
+nvidia-nvtx-cu12 @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/nvidia_nvtx_cu12-12.8.90-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl#sha256=5b17e2001cc0d751a5bc2c6ec6d26ad95913324a4adb86788c944f8ce9ba441f
+omegaconf @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/omegaconf-2.3.0-py3-none-any.whl#sha256=7b4df175cdb08ba400f45cae3bdcae7ba8365db4d165fc65fd04b050ab63b46b
+opencv-python==4.11.0.86
+opencv-python-headless @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/opencv_python_headless-4.11.0.86-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=0e0a27c19dd1f40ddff94976cfe43066fbbe9dfbb2ec1907d66c19caef42a57b
+opentelemetry-api==1.45.1
+opentelemetry-sdk==1.45.1
+opentelemetry-semantic-conventions==0.66b1
+orjson==3.13.0
+oss2==2.19.1
+packaging==25.0
+pandas @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/pandas-2.3.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=7dcb79bf373a47d2a40cf7232928eb7540155abbc460925c2c96d2d30b006eb4
+parso==0.8.7
+peft @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/peft-0.15.2-py3-none-any.whl#sha256=0dfc942b03b7af4b7267cd4e30b15e3a4a1d277adc581ce6245fc13f1f93d0a0
+pexpect==4.9.0
+pillow @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/pillow-11.3.0-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl#sha256=676b2815362456b5b3216b4fd5bd89d362100dc6f4945154ff172e206a22c024
+pipeline @ git+https://github.com/EasternJournalist/pipeline.git@866f059d2a05cde05e4a52211ec5051fd5f276d6
+platformdirs==4.13.0
+plyfile==1.1.4
+prompt_toolkit==3.0.53
+propcache==0.5.4
+protobuf==3.20.3
+psutil @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/psutil-7.0.0-cp36-abi3-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4b1388a4f6875d7e2aff5c4ca1cc16c545ed41dd8bb596cefea80111db353a34
+ptyprocess==0.7.0
+pure_eval==0.2.4
+pyarrow==21.0.0
+pyasn1==0.6.4
+pyasn1_modules==0.4.2
+pycparser==3.11
+pycryptodome==3.24.1
+pycryptodomex==3.24.1
+pydantic==2.14.1
+pydantic_core==2.50.1
+pydub==0.25.1
+Pygments==2.21.0
+pyparsing==3.3.3
+python-dateutil==2.9.0.post0
+python-json-logger==3.3.0
+python-multipart==0.0.32
+pytz==2026.5
+PyYAML @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/PyYAML-6.0.2-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=80bab7bfc629882493af4aa31a4cfa43a4c57c83813253626916b8c7ada83476
+qwen-vl-utils @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/qwen_vl_utils-0.0.11-py3-none-any.whl#sha256=7fd5287ac04d6c1f01b93bf053b0be236a35149e414c9e864e3cc5bf2fe8cb7b
+regex==2026.9.29
+requests==2.34.2
+rich @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/rich-14.1.0-py3-none-any.whl#sha256=536f5f1785986d6dbdea3c75205c473f970777b4a0d6c6dd1b696aa05a3fa04f
+safehttpx==0.1.7
+safetensors @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/safetensors-0.5.3-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=cead1fa41fc54b1e61089fa57452e8834f798cb1dc7a09ba3524f1eb08e0317a
+scikit-learn==1.9.1
+scipy @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/scipy-1.13.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=de3ade0e53bc1f21358aa74ff4830235d716211d7d077e340c7349bc3542e884
+seaborn @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/seaborn-0.13.2-py3-none-any.whl#sha256=636f8336facf092165e27924f223d3c62ca560b1f2bb5dff7ab7fad265361987
+semantic-version==2.10.0
+sentencepiece @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/sentencepiece-0.2.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=f295105c6bdbb05bd5e1b0cafbd78ff95036f5d3641e7949455a3f4e5e7c3109
+sentry-sdk==2.72.0
+setuptools==80.9.0
+shellingham==1.5.4
+six==1.17.0
+smmap==5.0.3
+SQLAlchemy==2.1.4
+sqlparse==0.6.0
+stack-data==0.6.3
+starlette==1.8.0
+sympy==1.14.0
+tensorboard @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/tensorboard-2.16.2-py3-none-any.whl#sha256=9f2b4e7dad86667615c0e5cd072f1ea8403fc032a299f0072d6f74855775cc45
+tensorboard-data-server==0.7.2
+threadpoolctl==3.7.0
+tokenizers @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/tokenizers-0.22.2-cp39-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=369cc9fc8cc10cb24143873a0d95438bb8ee257bb80c71989e3ee290e8d72c67
+tomlkit==0.14.0
+torch @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/torch-2.8.0-cp312-cp312-manylinux_2_28_x86_64.whl#sha256=b2aca0939fb7e4d842561febbd4ffda67a8e958ff725c1c27e244e85e982173c
+torchaudio==2.8.0
+torchcodec==0.6.0
+torchdata==0.11.0
+torchvision==0.23.0
+tqdm @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/tqdm-4.67.1-py3-none-any.whl#sha256=26445eca388f82e72884e0d580d5464cd801a3ea01e63e5601bdff9ba6a48de2
+traitlets==5.16.1
+transformers @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/transformers-4.57.3-py3-none-any.whl#sha256=c77d353a4851b1880191603d36acb313411d3577f6e2897814f333841f7003f4
+trimesh==4.5.1
+triton @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/triton-3.4.0-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl#sha256=31c1d84a5c0ec2c0f8e8a072d7fd150cab84a9c239eaddc6706c081bfae4eb04
+typer==0.27.3
+typing-inspection==0.4.4
+typing_extensions==4.16.0
+tzdata==2026.5
+urllib3==2.8.0
+utils3d @ https://github.com/EasternJournalist/utils3d/archive/3fab839f0be9931dac7c8488eb0e1600c236e183.tar.gz#sha256=f1f167b1f68809bea391a66dd0d2ad0e14f7382cbddf087b655181c31a285abb
+uvicorn==0.54.0
+wandb @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/wandb-0.21.0-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=a4e8245a8912247ddf7654f7b5330f583a6c56ab88fee65589158490d583c57d
+wcwidth==0.9.2
+websockets @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/websockets-15.0.1-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=64dee438fed052b52e4f98f76c5790513235efaa1ef7f3f2192c392cd7c91b65
+Werkzeug==3.1.9
+wheel==0.48.0
+xxhash==4.0.1
+yarl==1.25.1
+zipp==4.1.1
+zstandard @ file:///home/lmy/Robbyant/deployment/lingbotvla-env-20261013/wheels/zstandard-0.23.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=72c68dda124a1a138340fb62fa21b9bf4848437d9ca60bd35db36f2d3345f373
