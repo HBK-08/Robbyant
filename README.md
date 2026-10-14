@@ -27,6 +27,8 @@ git submodule update --init --recursive
 
 项目安装与运行说明见 `RoboTwin/README.md` 和 `lingbot-vla-v2/README.md`。`deployment/` 中的脚本保留当前机器的路径、CUDA、Conda 和显卡配置；换机器时需要按实际环境调整。环境安装包、缓存、模型权重、数据集和运行日志不提交到顶层仓库。
 
+2026 蚂蚁灵波 VLA 挑战赛的训练、评测及提交安排见 [比赛执行计划](docs/competition-plan.md)。训练前准备脚本和独立配置保存在 `deployment/competition-pretrain-20261014/`；数据与权重的实际就绪状态以该目录中的 `pretrain-report.json` 为准。准备脚本不提供训练启动模式。
+
 ## 日常提交
 
 顶层文件的修改可以直接提交：
